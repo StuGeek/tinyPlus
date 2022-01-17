@@ -1,0 +1,11 @@
+int A,B,C,D;
+int x,x;
+
+string z;
+z:=1;
+
+if A>z then
+  A:=1
+end;
+
+y:=2;

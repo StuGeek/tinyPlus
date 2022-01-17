@@ -1,0 +1,13 @@
+int A,B,C,D;
+int;
+while (A<C) and B>D do
+  if (A=1 then A:= B*C+37
+    else repeat A:=A*2
+      until A+C<=B+D
+    end
+  A:=B
+  A=C
+  if A:=2
+  then A:=B
+  end
+end

@@ -1,0 +1,17 @@
+{ this is a comment line in the sample program }
+int f2(int x, int y ) 
+begin 
+   int z;
+   z := x*x - y*y;
+   return z; 
+end 
+int main f1() 
+begin
+   int x;
+   read(x, 'A41.input');
+   int y;
+   read(y, 'A42.input');
+   int z;
+   z := f2(x,y) + f2(y,x);
+   write (z, 'A4.output'); 
+end
